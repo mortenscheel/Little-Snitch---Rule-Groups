@@ -4,8 +4,8 @@ import urllib2
 
 def main():
 
-	#target_url='https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts'
-	target_url = 'https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social/hosts'
+	target_url='https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts'
+	#target_url = 'https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social/hosts'
 	output_dir='blacklists'
 	output_script='stevenblack'
 	description=''
